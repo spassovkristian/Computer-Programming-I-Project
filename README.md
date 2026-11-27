@@ -70,8 +70,4 @@ The original graph has 63 dangling players and 506 strongly connected components
 
 ## AI assistance
 
-We used OpenAI Codex to assist with the following parts of the project.
-
-- **Tasks 1 and 2.** The companion notebook, helper functions, explanations, and numerical checks.
-- **Tasks 3 and 4.** The implementation, Matplotlib figures, numerical checks, and draft explanations.
-- **Tasks 5 and 6.** The lazy-walk and PageRank scripts, notebook explanations, Matplotlib figures, and verification.
+We used OpenAI Codex to help implement the Python scripts and notebook helpers, including those for the random walk, lazy walk, and PageRank. It also helped draft explanations, create Matplotlib figures, and verify the numerical results.
