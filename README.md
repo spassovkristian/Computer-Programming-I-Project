@@ -68,6 +68,10 @@ The first command regenerates `data/matrices.npz`, `data/player_statistics.csv`,
 
 The original graph has 63 dangling players and 506 strongly connected components. The largest contains 681 players. The completed walk reaches the stopping tolerance after 28 updates from Novak Djokovic and 33 from Rohan Bopanna. Both runs agree with the eigenvector solution within numerical tolerance. Alexander Zverev has the highest stationary probability, approximately 1.1736%.
 
+## AI assistance
 
+We used OpenAI Codex to assist with the following parts of the project.
 
-
+- **Tasks 1 and 2.** The companion notebook, helper functions, explanations, and numerical checks.
+- **Tasks 3 and 4.** The implementation, Matplotlib figures, numerical checks, and draft explanations.
+- **Tasks 5 and 6.** The lazy-walk and PageRank scripts, notebook explanations, Matplotlib figures, and verification.

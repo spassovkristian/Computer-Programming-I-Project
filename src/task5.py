@@ -1,8 +1,7 @@
 # TASK 5 - completed lazy random walk implementation
 """Task 5: compare the completed ATP walk with a lazy walk.
 
-AI assistance: OpenAI Codex helped prepare code and explanations; the group
-must review and explain them. Reuses the group's Task 3 power iteration.
+Reuses the group's Task 3 power iteration.
 """
 
 import argparse

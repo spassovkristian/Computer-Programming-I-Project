@@ -1,7 +1,6 @@
 """Task 6: PageRank with uniform teleportation, built from original completed P.
 
-AI assistance: OpenAI Codex; review and understand before use. No ready-made
-PageRank function is used. Task 7's alpha sweep is outside these two tasks.
+No ready-made PageRank function is used. Task 7's alpha sweep is outside these two tasks.
 """
 
 import argparse
